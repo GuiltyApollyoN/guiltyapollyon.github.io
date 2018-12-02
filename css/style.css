@@ -7,7 +7,7 @@ body {
 
 /*Global */
 .container {
-  width: 90%;
+  width: 80%;
   margin: auto;
   overflow: hidden;
 }
@@ -53,4 +53,33 @@ header #branding h1 {
 
 header nav {
   float: right;
+}
+
+/*Observatório*/
+#observatory {
+}
+
+#observatory h1 {
+  float: left;
+  font: 40px "Century Schoolbook";
+}
+
+#observatory .index-articles p {
+  font: 15px Arial;
+  padding: 20px;
+  background: #999999;
+  float: left;
+  width: 65%;
+}
+
+/*Artigos de Notícia*/
+
+/*Footer*/
+
+footer {
+  background: #323232;
+  color: #ffffff;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
 }
